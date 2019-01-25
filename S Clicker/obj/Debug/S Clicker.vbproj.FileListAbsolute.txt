@@ -1,0 +1,31 @@
+C:\Users\pc01\Desktop\src\S Clicker\bin\Debug\CCleaner.exe.config
+C:\Users\pc01\Desktop\src\S Clicker\bin\Debug\CCleaner.exe
+C:\Users\pc01\Desktop\src\S Clicker\bin\Debug\CCleaner.pdb
+C:\Users\pc01\Desktop\src\S Clicker\bin\Debug\CCleaner.xml
+C:\Users\pc01\Desktop\src\S Clicker\obj\Debug\S Clicker.vbprojResolveAssemblyReference.cache
+C:\Users\pc01\Desktop\src\S Clicker\obj\Debug\S_Clicker.Resources.resources
+C:\Users\pc01\Desktop\src\S Clicker\obj\Debug\S_Clicker.SCredits.resources
+C:\Users\pc01\Desktop\src\S Clicker\obj\Debug\S_Clicker.SLogin.resources
+C:\Users\pc01\Desktop\src\S Clicker\obj\Debug\S_Clicker.SMain.resources
+C:\Users\pc01\Desktop\src\S Clicker\obj\Debug\S_Clicker.SMenu.resources
+C:\Users\pc01\Desktop\src\S Clicker\obj\Debug\S Clicker.vbproj.GenerateResource.cache
+C:\Users\pc01\Desktop\src\S Clicker\obj\Debug\S Clicker.vbproj.CoreCompileInputs.cache
+C:\Users\pc01\Desktop\src\S Clicker\obj\Debug\CCleaner.exe
+C:\Users\pc01\Desktop\src\S Clicker\obj\Debug\CCleaner.xml
+C:\Users\pc01\Desktop\src\S Clicker\obj\Debug\CCleaner.pdb
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\S Clicker.vbprojAssemblyReference.cache
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\S_Clicker.Resources.resources
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\S_Clicker.SCredits.resources
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\S_Clicker.SLogin.resources
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\S_Clicker.SMain.resources
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\S_Clicker.SMenu.resources
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\S Clicker.vbproj.GenerateResource.cache
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\S Clicker.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\S_Clicker.index.resources
+C:\Users\pc\Desktop\src\S Clicker\bin\Debug\CCleaner64.exe.config
+C:\Users\pc\Desktop\src\S Clicker\bin\Debug\CCleaner64.exe
+C:\Users\pc\Desktop\src\S Clicker\bin\Debug\CCleaner64.pdb
+C:\Users\pc\Desktop\src\S Clicker\bin\Debug\CCleaner64.xml
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\CCleaner64.exe
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\CCleaner64.xml
+C:\Users\pc\Desktop\src\S Clicker\obj\Debug\CCleaner64.pdb
